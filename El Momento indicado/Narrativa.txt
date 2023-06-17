@@ -1,0 +1,11 @@
+Inicio: presento el lugar = una ciudad comun,
+            	         el personaje = que hace, quien es, como llego a ser quien es, etc;
+	         el proposito de todo = mostrar que no siempre las cosas se hacen como los demas quieren, a veces se hacen por uno mismo y con  eso es suficiente.
+
+Desarrollo: comienzo por lo que estaba sucediendo en el mundo,
+	 hablo de lo que hace el personaje mientras tanto,
+	 ...
+
+Problema: ¿eso era lo que en verdad querias?
+
+Final: ..	
