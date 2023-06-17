@@ -1,0 +1,193 @@
+A
+- amounts : cantidad, monto, importe.
+- all about amazing : lo mas importante, la prioridad.
+ - attain : alcanzar, llegar, conseguir
+- among : entre.
+- assets: activos.
+- aware: conciancia, conciente.
+- available: disponible.
+- aim: objetivo, finalidad.
+- acknowledge: reconocer.
+- avoid: evitar, eludir, prevenir.
+- attempt: intento, intentar, esfuerzo.
+- approach: enfoque, acercamiento, abordar algo.
+- achieve: lograr, alcanzar.
+- although: aunque, si bien.
+- afford: permitirse, proporcionar, (darse el lujo).
+- assert: asegurar, hacer valer, defender.
+- able: capaz, apto, competente, etc.
+- attached: agregado, adjunto, fijado, etc.
+- allowable: permitido, autorizado.
+- attached: adjunto.
+- accordingly: en consecuencia, segun, conforme a.
+- avenues: posibilidades, probabilidades.
+- approach: enfoque, aproximacion.
+
+B
+- batch: conjunto, grupo, lote. 
+- blind: ciego, deslumbrar, persiana.
+- background: segundo plano, por atras.
+- beyond: mas alla , mas lejos.
+- boundary: limite, frontera, barrera.
+- bind: enlazar, vincular, encuadernar.
+- brief: breve, resumen,dar instruciones, informar.
+- bear: soportar, llevar.
+- besides: ademas, aparte de , con la salvedad, junto a.
+
+C
+- customize : personalizar
+- challenging: desafiante
+- case: caso, caja, situacion, procedimiento, etc.
+- convey: transmitir, comunicar.
+- craft: artesania. oficio, enbarcacion...
+- claim: derecho, demanda, reclamo, afirmar.
+
+D
+- deserve: ser digno, merecer.
+- deal: trato, cauerdo, dar, repartir, etc
+- debt: deuda.
+- due: debido, adecaudo, pendiente.
+
+E
+- employee: empleado , trabajador.
+- either: o bien, cualquiera, alguno, ya sea.
+- even: rellenar, plano, uniforme, igualar, aunque,
+- environment: entorno, ambente.
+- enforce: hacer cumplir, ejecutar, imponer, aplicar.
+- engage: participar, contratar, comprometido.
+- encounter: encuentro, experiencia.
+- ensuing: siguiente, resultante.
+
+F
+- fordware: por delante, enfrente de.
+- fixed: fijado
+- foster: fomentar, potenciar algo.
+- framework: contexto, marco.
+- feature: caracteristica, funcion, rasgo.
+- fulfil: cumplir, satisfacer, colmar.
+- furthermore: ademas, asimismo.
+- flavour: sabor, aroma, variedad, etc.
+- fuller: mejor, mas completo.
+- further: adicional, profundizar, fomentar, etc.
+
+G
+- grasp: alcance, entender, agarrar.
+- 
+- 
+
+H
+- However: sin embargo, en cambio, no obstante.
+- hosting: de alojamiento, de hospedaje
+- hence: de ahi, por tanto.
+- hung: colgarse, engancharse.
+
+I
+- intended : destinado, dirigido.
+- involvement : participacion, 
+- indeed: de hecho, efectivamente.
+- issue: cuestion, tema, problema.
+
+J
+- jargon: jerga.
+- 
+- 
+
+K
+- knowledge: conocimiento
+- 
+- 
+
+L
+- lies: yacer, encontrarse, mentira, estar tirado.
+- lead: ventaja, llevar, conducir, ejemplo.
+- label: etiqueta, marca, sello, rotilar, calificar.
+- liable: tendencia, probabilidad.
+- lurking: escondido, al acecho.
+
+M
+- means: medio, mediante.
+- markdown: reduccion, recorte.
+- 
+
+N
+- network: red, cadena, comunidad.
+- novel: novedoso, nuevo
+- nevertheless: sin embargo, no obstante.
+- neither: ninguno, tampoco.
+
+O
+- onto: sobre, a
+- occur: ocurrir, producirse, darse.
+- 
+
+P
+- payroll: pantilla, 
+- partners: socios, afiliados
+- performance: rendimiento,desempeño, ejecucion.
+- proof: prueba, probar, comprobante.
+
+Q
+- queues: colas, o filas.
+- 
+- 
+
+R
+- resemble: parecerce a algo
+- records: registros, actas, etc
+- rather: en lugar, mas bien, algo
+- reiable: fiable, confiable.
+- rate: indices, tarifas, precios.
+- resubmit: volver a presentar algo, reenviar.
+- reject: rechazar, denegar.
+- regard: respecto, considerar, relacion, sentido, ver, etc.
+- rearrange: reorganizar.
+- remainder: resto, residuo,
+
+S 
+- stacks: pilas, montones, etc.
+- success: exitos, logros.
+- sense: sensacion, sentido, juicio, razon.
+- skills: habilidades
+- scope: alcance, campo, ambito.
+- stremline: racionalizar, optimizar.
+- suggest: sugerir, proponer, indicar.
+- stiff: rigido, duro, tieso, firme.
+- script: escritura.
+- supply: suministro, proivision, provisionar.
+- stage: fase, etapa, escenario.
+- source: fuente, nacimiento, de origen.
+- speech: discurso, expresion, habla.
+- somewhat: algo, un poco. un tanto.
+- sever: cortar, poner fin, cortarse.
+
+T
+- topics: temas
+- through : a traves, mediante.
+- trusted: de confianza.
+- task: tarea, labor, trabajo.
+- thus: asi, de este modo.
+- therefore: por lo tanto ,pues.
+- trigger: disaprador, detonante, provocar algo, (en pas, accionado).
+- track: pista, via, ruta, astrear, etc.
+- traiding: derivado.
+
+U
+- upon: sobre, pedir, solicitar.
+- uncertainty: incertidumbre, indecision.
+- useful: util, practico.
+- unaware: ignorante, inconsiente.
+- upbringing: educacion, crianza.
+
+V
+- vast: gran, inmenso
+
+W
+- wishes : deseos, voluntades, anhelos.
+- whether: si , ya, (si conjuntivo)
+- way: manera, camino, forma.
+- whatsoever: de ningun modo
+- whose: cuya/o.
+- whenever: siempre que , cuando sea.
+- willingness: voluntad, dispiciocion, (deseo de).
+- widespread; extendido, generalizado, (amplio).
+- worn: desgastado, usado.
